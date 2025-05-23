@@ -1,4 +1,5 @@
-// lab1
+// lab14
+
 import java.util.Scanner;
 
 class Addition {

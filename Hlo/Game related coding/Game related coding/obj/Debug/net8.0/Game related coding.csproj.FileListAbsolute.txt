@@ -1,0 +1,15 @@
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\bin\Debug\net8.0\Game related coding.exe
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\bin\Debug\net8.0\Game related coding.deps.json
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\bin\Debug\net8.0\Game related coding.runtimeconfig.json
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\bin\Debug\net8.0\Game related coding.dll
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\bin\Debug\net8.0\Game related coding.pdb
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.AssemblyInfoInputs.cache
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.AssemblyInfo.cs
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.csproj.CoreCompileInputs.cache
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.sourcelink.json
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.dll
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\refint\Game related coding.dll
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.pdb
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\Game related coding.genruntimeconfig.cache
+C:\CE Study Materials\Java\Hlo\Game related coding\Game related coding\obj\Debug\net8.0\ref\Game related coding.dll

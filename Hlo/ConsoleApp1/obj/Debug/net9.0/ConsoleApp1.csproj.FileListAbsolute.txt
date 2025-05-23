@@ -1,0 +1,15 @@
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\CE Study Materials\Java\Hlo\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
